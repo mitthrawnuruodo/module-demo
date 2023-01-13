@@ -1,0 +1,26 @@
+{
+  "name": "module-demo",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/219e30af-adf4-42e0-a2c0-41728525d159/deploy-status)](https://app.netlify.com/sites/profound-twilight-b2ee8a/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitthrawnuruodo/module-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitthrawnuruodo/module-demo/issues"
+  },
+  "homepage": "https://github.com/mitthrawnuruodo/module-demo#readme",
+  "dependencies": {
+    "vite": "^4.0.4"
+  }
+}
